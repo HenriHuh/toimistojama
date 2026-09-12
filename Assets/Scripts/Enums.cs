@@ -20,5 +20,6 @@ namespace Enums
         Seppo,
         Runoi,
         Kitchen,
+        Computer
     }
 }

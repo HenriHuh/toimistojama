@@ -48,6 +48,6 @@ public class SwingingMao : MonoBehaviour
 
     public void Push()
     {
-        angularVelocity += Time.deltaTime * pushForce;
+        angularVelocity -= Time.deltaTime * pushForce;
     }
 }

@@ -16,6 +16,7 @@ public abstract class ClickableBase : MonoBehaviour
     public void OnMouseDown()
     {
         Click();
+        UIController.Instance.UnSelect();
     }
 
     protected abstract void Click();

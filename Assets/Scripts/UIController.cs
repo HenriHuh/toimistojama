@@ -3,15 +3,22 @@ using System.Collections.Generic;
 using UnityEngine.UI;
 using TMPro;
 using Enums;
+using System.Collections;
 
 public class UIController : MonoBehaviour
 {
     [SerializeField] private Transform itemButtonParent;
     [SerializeField] private GameObject buttonPrefab;
+    [SerializeField] private Color defaultButtonColor;
+    [SerializeField] private Color highlightButtonColor;
+    [SerializeField] private Transform dialogue;
+
+
     public static UIController Instance { get; private set; }
     public CollectibleType Selected { get; private set; }
 
     private List<(GameObject obj, CollectibleItem item)> itemButtons = new ();
+    private Coroutine hideDialogueRoutine;
 
     private void Awake()
     {
@@ -51,8 +58,50 @@ public class UIController : MonoBehaviour
         }
     }
 
+    public void ShowDialogue(string text)
+    {
+        dialogue.GetComponentInChildren<TextMeshProUGUI>().text = text;
+        dialogue.gameObject.SetActive(true);
+        dialogue.GetComponent<CanvasGroup>().alpha = 1;
+
+        if (hideDialogueRoutine != null)
+        {
+            StopCoroutine(hideDialogueRoutine);
+        }
+        hideDialogueRoutine = StartCoroutine(HideDialogue());
+    }
+
+    private IEnumerator HideDialogue()
+    {
+        yield return new WaitForSeconds(3);
+
+        for (float t = 0; t < 1; t+= Time.deltaTime)
+        {
+            dialogue.GetComponent<CanvasGroup>().alpha = 1 - t;
+            yield return null;
+        }
+
+        dialogue.gameObject.SetActive(false);
+    }
+
     private void SelectItem(CollectibleType type)
     {
         Selected = type;
+        for (int i = 0; i < itemButtons.Count; i++)
+        {
+            if (itemButtons[i].item.type == type)
+            {
+                itemButtons[i].obj.GetComponent<Image>().color = highlightButtonColor;
+            }
+            else
+            {
+                itemButtons[i].obj.GetComponent<Image>().color = defaultButtonColor;
+            }
+        }
+    }
+
+    public void UnSelect()
+    {
+        SelectItem(CollectibleType.None);
     }
 }

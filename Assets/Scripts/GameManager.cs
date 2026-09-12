@@ -6,6 +6,7 @@ using System;
 public class GameManager : MonoBehaviour
 {
     [field: SerializeField] public SwingingMao SwingingMao { get; private set; }
+    [field: SerializeField] public Computer Computer { get; private set; }
     [field: SerializeField] public List<SubScene> Scenes { get; private set; }
     [field: SerializeField] public List<CollectibleItem> CollectibleItems { get; private set; }
 
