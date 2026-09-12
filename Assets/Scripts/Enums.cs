@@ -8,7 +8,6 @@ namespace Enums
         GPU,
         CPU,
         ThermalPaste,
-        Bong,
         HardDrive_1,
         HardDrive_2,
         HardDrive_3,

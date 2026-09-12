@@ -1,0 +1,2041 @@
+fileFormatVersion: 2
+guid: 3a00bef4823ba264786146c1cbec7d9a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 19249528088228026
+    second: Eteinen_sieni_0
+  - first:
+      213: 5404087573924775593
+    second: Eteinen_sieni_1
+  - first:
+      213: -4081958152395584332
+    second: Eteinen_sieni_2
+  - first:
+      213: -1183837235608986788
+    second: Eteinen_sieni_3
+  - first:
+      213: -6704662650737386484
+    second: Eteinen_sieni_4
+  - first:
+      213: -5878300685113150239
+    second: Eteinen_sieni_5
+  - first:
+      213: -5973359303377927684
+    second: Eteinen_sieni_6
+  - first:
+      213: 5622350599263853602
+    second: Eteinen_sieni_7
+  - first:
+      213: -6174285686291472660
+    second: Eteinen_sieni_8
+  - first:
+      213: -8502859707920873591
+    second: Eteinen_sieni_9
+  - first:
+      213: -1750200884277196305
+    second: Eteinen_sieni_10
+  - first:
+      213: -5867495048557457276
+    second: Eteinen_sieni_11
+  - first:
+      213: -2793576925963550419
+    second: Eteinen_sieni_12
+  - first:
+      213: -5534893111281573272
+    second: Eteinen_sieni_13
+  - first:
+      213: -8351508285740662777
+    second: Eteinen_sieni_14
+  - first:
+      213: 1060568703917170505
+    second: Eteinen_sieni_15
+  - first:
+      213: -6160143840038963398
+    second: Eteinen_sieni_16
+  - first:
+      213: 6983354765318659026
+    second: Eteinen_sieni_17
+  - first:
+      213: -7190747765488365354
+    second: Eteinen_sieni_18
+  - first:
+      213: -4576926988190137045
+    second: Eteinen_sieni_19
+  - first:
+      213: 707955299064486974
+    second: Eteinen_sieni_20
+  - first:
+      213: -58544607550404816
+    second: Eteinen_sieni_21
+  - first:
+      213: -1591379842320711097
+    second: Eteinen_sieni_22
+  - first:
+      213: -6178018749598010098
+    second: Eteinen_sieni_23
+  - first:
+      213: -9175626432203421834
+    second: Eteinen_sieni_24
+  - first:
+      213: 646956657363208969
+    second: Eteinen_sieni_25
+  - first:
+      213: 5822299568358571918
+    second: Eteinen_sieni_26
+  - first:
+      213: -7976988048948685925
+    second: Eteinen_sieni_27
+  - first:
+      213: 6048772659624061167
+    second: Eteinen_sieni_28
+  - first:
+      213: -7828222645318949123
+    second: Eteinen_sieni_29
+  - first:
+      213: -7223645519899166356
+    second: Eteinen_sieni_30
+  - first:
+      213: -4249570798529302212
+    second: Eteinen_sieni_31
+  - first:
+      213: 8152099647394805676
+    second: Eteinen_sieni_32
+  - first:
+      213: -2677944434088574476
+    second: Eteinen_sieni_33
+  - first:
+      213: 3642302738847486262
+    second: Eteinen_sieni_34
+  - first:
+      213: 8003580867474746851
+    second: Eteinen_sieni_35
+  - first:
+      213: -5302992058143155121
+    second: Eteinen_sieni_36
+  - first:
+      213: -621009032528973489
+    second: Eteinen_sieni_37
+  - first:
+      213: 6214494351003038715
+    second: Eteinen_sieni_38
+  - first:
+      213: -6035792253804208113
+    second: Eteinen_sieni_39
+  - first:
+      213: -1577754851772073892
+    second: Eteinen_sieni_40
+  - first:
+      213: -3796026455092910924
+    second: Eteinen_sieni_41
+  - first:
+      213: 7465686101450578802
+    second: Eteinen_sieni_42
+  - first:
+      213: 1324063734062292157
+    second: Eteinen_sieni_43
+  - first:
+      213: 1441310180262983069
+    second: Eteinen_sieni_44
+  - first:
+      213: -5781881234153657842
+    second: Eteinen_sieni_45
+  - first:
+      213: 5742399705514829040
+    second: Eteinen_sieni_46
+  - first:
+      213: 8752198029714176575
+    second: Eteinen_sieni_47
+  - first:
+      213: 5959706189674392043
+    second: Eteinen_sieni_48
+  - first:
+      213: -3863477638150676174
+    second: Eteinen_sieni_49
+  - first:
+      213: -2044029496107237852
+    second: Eteinen_sieni_50
+  - first:
+      213: 7931490822464302267
+    second: Eteinen_sieni_51
+  - first:
+      213: 2752784302830187691
+    second: Eteinen_sieni_52
+  - first:
+      213: -498366788379000391
+    second: Eteinen_sieni_53
+  - first:
+      213: -1118114385381831765
+    second: Eteinen_sieni_54
+  - first:
+      213: 572597440384446237
+    second: Eteinen_sieni_55
+  - first:
+      213: 6276577284244067642
+    second: Eteinen_sieni_56
+  - first:
+      213: -6735436959548861666
+    second: Eteinen_sieni_57
+  - first:
+      213: -3086494155922800800
+    second: Eteinen_sieni_58
+  - first:
+      213: -1893063635959843050
+    second: Eteinen_sieni_59
+  - first:
+      213: -2205717263538648365
+    second: Eteinen_sieni_60
+  - first:
+      213: 2973726808298109980
+    second: Eteinen_sieni_61
+  - first:
+      213: 3707720602797586457
+    second: Eteinen_sieni_62
+  - first:
+      213: 8696628036532180060
+    second: Eteinen_sieni_63
+  - first:
+      213: 6148261224257236304
+    second: Eteinen_sieni_64
+  - first:
+      213: -5887401432198484827
+    second: Eteinen_sieni_65
+  - first:
+      213: -5156351612274734573
+    second: Eteinen_sieni_66
+  - first:
+      213: 8810219997262558504
+    second: Eteinen_sieni_67
+  - first:
+      213: -5216880664941640316
+    second: Eteinen_sieni_68
+  - first:
+      213: 828952540608151029
+    second: Eteinen_sieni_69
+  - first:
+      213: -4671916759299716707
+    second: Eteinen_sieni_70
+  - first:
+      213: 2415085533317066956
+    second: Eteinen_sieni_71
+  - first:
+      213: 5036067344797087293
+    second: Eteinen_sieni_72
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Eteinen_sieni_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 551
+        width: 83
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab0fac30853644000800000000000000
+      internalID: 19249528088228026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eteinen_sieni_1
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 0
+        width: 672
+        height: 753
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a683e2340d2ffa40800000000000000
+      internalID: 5404087573924775593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eteinen_sieni_2
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 671
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bc837200b8f957c0800000000000000
+      internalID: -4081958152395584332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eteinen_sieni_3
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 580
+        width: 107
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5b55a37e4a229fe0800000000000000
+      internalID: -1183837235608986788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eteinen_sieni_4
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 579
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0c18fb87d044f2a0800000000000000
+      internalID: -6704662650737386484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eteinen_sieni_5
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 565
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e435e4eba41c6ea0800000000000000
+      internalID: -5878300685113150239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eteinen_sieni_6
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 571
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf1426e9c5d5a1da0800000000000000
+      internalID: -5973359303377927684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eteinen_sieni_7
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 553
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22c93dfd41a960e40800000000000000
+      internalID: 5622350599263853602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eteinen_sieni_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 412
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cee51de81e7805aa0800000000000000
+      internalID: -6174285686291472660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eteinen_sieni_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 450
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 987056e4526cff980800000000000000
+      internalID: -8502859707920873591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eteinen_sieni_10
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 484
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe94517919906b7e0800000000000000
+      internalID: -1750200884277196305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eteinen_sieni_11
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 447
+        width: 69
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4809e553758729ea0800000000000000
+      internalID: -5867495048557457276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eteinen_sieni_12
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 490
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d21073b36983b39d0800000000000000
+      internalID: -2793576925963550419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eteinen_sieni_13
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 457
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8622e485a0c1033b0800000000000000
+      internalID: -5534893111281573272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eteinen_sieni_14
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 453
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70042b9567b791c80800000000000000
+      internalID: -8351508285740662777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eteinen_sieni_15
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 456
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94f11e8fd95e7be00800000000000000
+      internalID: 1060568703917170505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eteinen_sieni_16
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 405
+        width: 41
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a37ba29b0d5c28aa0800000000000000
+      internalID: -6160143840038963398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eteinen_sieni_17
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 445
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2db995fd82cd9e060800000000000000
+      internalID: 6983354765318659026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eteinen_sieni_18
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 460
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d0d1a86105553c90800000000000000
+      internalID: -7190747765488365354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eteinen_sieni_19
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 438
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b254702672d7b70c0800000000000000
+      internalID: -4576926988190137045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eteinen_sieni_20
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 463
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3c1895f79923d900800000000000000
+      internalID: 707955299064486974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eteinen_sieni_21
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 456
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03781775df1003ff0800000000000000
+      internalID: -58544607550404816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eteinen_sieni_22
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 429
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 742c1c307784ae9e0800000000000000
+      internalID: -1591379842320711097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eteinen_sieni_23
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 435
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e05f1860ea4434aa0800000000000000
+      internalID: -6178018749598010098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eteinen_sieni_24
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 434
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67784dcdf50a9a080800000000000000
+      internalID: -9175626432203421834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eteinen_sieni_25
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 418
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90b4533f6a37af800800000000000000
+      internalID: 646956657363208969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eteinen_sieni_26
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 406
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8f3ceb0c96fcc050800000000000000
+      internalID: 5822299568358571918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eteinen_sieni_27
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 420
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9390e422ab0c4190800000000000000
+      internalID: -7976988048948685925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eteinen_sieni_28
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 396
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe8acf7afae81f350800000000000000
+      internalID: 6048772659624061167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eteinen_sieni_29
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 411
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df66813daf09c5390800000000000000
+      internalID: -7828222645318949123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eteinen_sieni_30
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 410
+        width: 33
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6971131ca470cb90800000000000000
+      internalID: -7223645519899166356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eteinen_sieni_31
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 389
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c31b9c9bfdd7605c0800000000000000
+      internalID: -4249570798529302212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eteinen_sieni_32
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 399
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca7fd880073122170800000000000000
+      internalID: 8152099647394805676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eteinen_sieni_33
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 396
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f18aedb9b706dad0800000000000000
+      internalID: -2677944434088574476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eteinen_sieni_34
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 383
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 631df611b0f0c8230800000000000000
+      internalID: 3642302738847486262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eteinen_sieni_35
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 384
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ede1f8e46e621f60800000000000000
+      internalID: 8003580867474746851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eteinen_sieni_36
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 400
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4cd8afc1dcf766b0800000000000000
+      internalID: -5302992058143155121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eteinen_sieni_37
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 376
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f413dcd339bb167f0800000000000000
+      internalID: -621009032528973489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eteinen_sieni_38
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 381
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf3353abfa15e3650800000000000000
+      internalID: 6214494351003038715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eteinen_sieni_39
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 386
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0022f59cee8c3ca0800000000000000
+      internalID: -6035792253804208113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eteinen_sieni_40
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 388
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c58f9755250ba1ae0800000000000000
+      internalID: -1577754851772073892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eteinen_sieni_41
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 314
+        width: 111
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b4a3322d0ec15bc0800000000000000
+      internalID: -3796026455092910924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eteinen_sieni_42
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 374
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27b588154f17b9760800000000000000
+      internalID: 7465686101450578802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eteinen_sieni_43
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 369
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbc92c073f4006210800000000000000
+      internalID: 1324063734062292157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eteinen_sieni_44
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 369
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d95bab9f8ff800410800000000000000
+      internalID: 1441310180262983069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eteinen_sieni_45
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 358
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0a26c8b6a1a2cfa0800000000000000
+      internalID: -5781881234153657842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eteinen_sieni_46
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 348
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f4e48d8b1a11bf40800000000000000
+      internalID: 5742399705514829040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eteinen_sieni_47
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 359
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3abcf4acbd067970800000000000000
+      internalID: 8752198029714176575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eteinen_sieni_48
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 356
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be92d31243125b250800000000000000
+      internalID: 5959706189674392043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eteinen_sieni_49
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 355
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2312d54ce8b226ac0800000000000000
+      internalID: -3863477638150676174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eteinen_sieni_50
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 317
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42e7b16c00622a3e0800000000000000
+      internalID: -2044029496107237852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eteinen_sieni_51
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 328
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbc614451e0521e60800000000000000
+      internalID: 7931490822464302267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eteinen_sieni_52
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 293
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba4f6711dbad33620800000000000000
+      internalID: 2752784302830187691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eteinen_sieni_53
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 311
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b141d2eb027519f0800000000000000
+      internalID: -498366788379000391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eteinen_sieni_54
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 308
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: babcf09f3e8ab70f0800000000000000
+      internalID: -1118114385381831765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eteinen_sieni_55
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 298
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1fa969965642f700800000000000000
+      internalID: 572597440384446237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eteinen_sieni_56
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 256
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3557a809c1ea1750800000000000000
+      internalID: 6276577284244067642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eteinen_sieni_57
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 199
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e139d0b65cbe682a0800000000000000
+      internalID: -6735436959548861666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eteinen_sieni_58
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 180
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06ff6ea0be19a25d0800000000000000
+      internalID: -3086494155922800800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eteinen_sieni_59
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 182
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 617776927ac7ab5e0800000000000000
+      internalID: -1893063635959843050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eteinen_sieni_60
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 159
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3da05dfc5d7b361e0800000000000000
+      internalID: -2205717263538648365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eteinen_sieni_61
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 153
+        width: 23
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1c3aa3d6ccc44920800000000000000
+      internalID: 2973726808298109980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eteinen_sieni_62
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 136
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 918b5207e38747330800000000000000
+      internalID: 3707720602797586457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eteinen_sieni_63
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 139
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c54143d5f11a0b870800000000000000
+      internalID: 8696628036532180060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eteinen_sieni_64
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 152
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05d29223203035550800000000000000
+      internalID: 6148261224257236304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eteinen_sieni_65
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 144
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aceea7179fbb4ea0800000000000000
+      internalID: -5887401432198484827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eteinen_sieni_66
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 152
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31a0a553785f078b0800000000000000
+      internalID: -5156351612274734573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eteinen_sieni_67
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 145
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 825b0e1b860344a70800000000000000
+      internalID: 8810219997262558504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eteinen_sieni_68
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 152
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 485cc8aecaae997b0800000000000000
+      internalID: -5216880664941640316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eteinen_sieni_69
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 147
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fd3b9691f7018b00800000000000000
+      internalID: 828952540608151029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eteinen_sieni_70
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 59
+        width: 18
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d990fb5d5740a2fb0800000000000000
+      internalID: -4671916759299716707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eteinen_sieni_71
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 45
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc07c833f7b148120800000000000000
+      internalID: 2415085533317066956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eteinen_sieni_72
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 4
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d36339f5194b3e540800000000000000
+      internalID: 5036067344797087293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Eteinen_sieni_0: 19249528088228026
+      Eteinen_sieni_1: 5404087573924775593
+      Eteinen_sieni_10: -1750200884277196305
+      Eteinen_sieni_11: -5867495048557457276
+      Eteinen_sieni_12: -2793576925963550419
+      Eteinen_sieni_13: -5534893111281573272
+      Eteinen_sieni_14: -8351508285740662777
+      Eteinen_sieni_15: 1060568703917170505
+      Eteinen_sieni_16: -6160143840038963398
+      Eteinen_sieni_17: 6983354765318659026
+      Eteinen_sieni_18: -7190747765488365354
+      Eteinen_sieni_19: -4576926988190137045
+      Eteinen_sieni_2: -4081958152395584332
+      Eteinen_sieni_20: 707955299064486974
+      Eteinen_sieni_21: -58544607550404816
+      Eteinen_sieni_22: -1591379842320711097
+      Eteinen_sieni_23: -6178018749598010098
+      Eteinen_sieni_24: -9175626432203421834
+      Eteinen_sieni_25: 646956657363208969
+      Eteinen_sieni_26: 5822299568358571918
+      Eteinen_sieni_27: -7976988048948685925
+      Eteinen_sieni_28: 6048772659624061167
+      Eteinen_sieni_29: -7828222645318949123
+      Eteinen_sieni_3: -1183837235608986788
+      Eteinen_sieni_30: -7223645519899166356
+      Eteinen_sieni_31: -4249570798529302212
+      Eteinen_sieni_32: 8152099647394805676
+      Eteinen_sieni_33: -2677944434088574476
+      Eteinen_sieni_34: 3642302738847486262
+      Eteinen_sieni_35: 8003580867474746851
+      Eteinen_sieni_36: -5302992058143155121
+      Eteinen_sieni_37: -621009032528973489
+      Eteinen_sieni_38: 6214494351003038715
+      Eteinen_sieni_39: -6035792253804208113
+      Eteinen_sieni_4: -6704662650737386484
+      Eteinen_sieni_40: -1577754851772073892
+      Eteinen_sieni_41: -3796026455092910924
+      Eteinen_sieni_42: 7465686101450578802
+      Eteinen_sieni_43: 1324063734062292157
+      Eteinen_sieni_44: 1441310180262983069
+      Eteinen_sieni_45: -5781881234153657842
+      Eteinen_sieni_46: 5742399705514829040
+      Eteinen_sieni_47: 8752198029714176575
+      Eteinen_sieni_48: 5959706189674392043
+      Eteinen_sieni_49: -3863477638150676174
+      Eteinen_sieni_5: -5878300685113150239
+      Eteinen_sieni_50: -2044029496107237852
+      Eteinen_sieni_51: 7931490822464302267
+      Eteinen_sieni_52: 2752784302830187691
+      Eteinen_sieni_53: -498366788379000391
+      Eteinen_sieni_54: -1118114385381831765
+      Eteinen_sieni_55: 572597440384446237
+      Eteinen_sieni_56: 6276577284244067642
+      Eteinen_sieni_57: -6735436959548861666
+      Eteinen_sieni_58: -3086494155922800800
+      Eteinen_sieni_59: -1893063635959843050
+      Eteinen_sieni_6: -5973359303377927684
+      Eteinen_sieni_60: -2205717263538648365
+      Eteinen_sieni_61: 2973726808298109980
+      Eteinen_sieni_62: 3707720602797586457
+      Eteinen_sieni_63: 8696628036532180060
+      Eteinen_sieni_64: 6148261224257236304
+      Eteinen_sieni_65: -5887401432198484827
+      Eteinen_sieni_66: -5156351612274734573
+      Eteinen_sieni_67: 8810219997262558504
+      Eteinen_sieni_68: -5216880664941640316
+      Eteinen_sieni_69: 828952540608151029
+      Eteinen_sieni_7: 5622350599263853602
+      Eteinen_sieni_70: -4671916759299716707
+      Eteinen_sieni_71: 2415085533317066956
+      Eteinen_sieni_72: 5036067344797087293
+      Eteinen_sieni_8: -6174285686291472660
+      Eteinen_sieni_9: -8502859707920873591
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

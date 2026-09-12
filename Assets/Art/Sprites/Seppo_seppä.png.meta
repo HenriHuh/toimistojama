@@ -1,0 +1,559 @@
+fileFormatVersion: 2
+guid: 1f15b1e5f34ec5941a400363a613e2f1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8700458477566053765
+    second: "Seppo_sepp\xE4_0"
+  - first:
+      213: 8201347168474057094
+    second: "Seppo_sepp\xE4_1"
+  - first:
+      213: -186128137577756537
+    second: "Seppo_sepp\xE4_2"
+  - first:
+      213: 5386592261252131288
+    second: "Seppo_sepp\xE4_3"
+  - first:
+      213: 2298530673144359791
+    second: "Seppo_sepp\xE4_4"
+  - first:
+      213: 7212702064892827487
+    second: "Seppo_sepp\xE4_5"
+  - first:
+      213: 1799829797916959498
+    second: "Seppo_sepp\xE4_6"
+  - first:
+      213: 853856474598509761
+    second: "Seppo_sepp\xE4_7"
+  - first:
+      213: 6971113555872704436
+    second: "Seppo_sepp\xE4_8"
+  - first:
+      213: -7597525622105716019
+    second: "Seppo_sepp\xE4_9"
+  - first:
+      213: -519924719633741521
+    second: "Seppo_sepp\xE4_10"
+  - first:
+      213: 1210147497189753107
+    second: "Seppo_sepp\xE4_11"
+  - first:
+      213: 2768117048450137123
+    second: "Seppo_sepp\xE4_12"
+  - first:
+      213: 8360228588945963211
+    second: "Seppo_sepp\xE4_13"
+  - first:
+      213: -8091072106656262043
+    second: "Seppo_sepp\xE4_14"
+  - first:
+      213: 8961934124303612402
+    second: "Seppo_sepp\xE4_15"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Seppo_sepp\xE4_0"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3
+        width: 238
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58d4c5a63ec3eb870800000000000000
+      internalID: 8700458477566053765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Seppo_sepp\xE4_1"
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 280
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6894d801cc901d170800000000000000
+      internalID: 8201347168474057094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Seppo_sepp\xE4_2"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 222
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78809fce17dba6df0800000000000000
+      internalID: -186128137577756537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Seppo_sepp\xE4_3"
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 182
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d92dc94f1501ca40800000000000000
+      internalID: 5386592261252131288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Seppo_sepp\xE4_4"
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 116
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6beb16187506ef10800000000000000
+      internalID: 2298530673144359791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Seppo_sepp\xE4_5"
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 92
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f57d9a0405aa81460800000000000000
+      internalID: 7212702064892827487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Seppo_sepp\xE4_6"
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 85
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a03e0015aa74af810800000000000000
+      internalID: 1799829797916959498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Seppo_sepp\xE4_7"
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 68
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cc8c9190f189db00800000000000000
+      internalID: 853856474598509761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Seppo_sepp\xE4_8"
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 60
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b7e3b238de5eb060800000000000000
+      internalID: 6971113555872704436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Seppo_sepp\xE4_9"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 40
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcac57a33ba209690800000000000000
+      internalID: -7597525622105716019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Seppo_sepp\xE4_10"
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 0
+        width: 72
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f294940e83bd8c8f0800000000000000
+      internalID: -519924719633741521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Seppo_sepp\xE4_11"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 12
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 311c2dfacbe4bc010800000000000000
+      internalID: 1210147497189753107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Seppo_sepp\xE4_12"
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 5
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32cb2991ac35a6620800000000000000
+      internalID: 2768117048450137123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Seppo_sepp\xE4_13"
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 0
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc870357b9f750470800000000000000
+      internalID: 8360228588945963211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Seppo_sepp\xE4_14"
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5689eae89ccb6bf80800000000000000
+      internalID: -8091072106656262043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Seppo_sepp\xE4_15"
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 0
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f9719b8a9f2f5c70800000000000000
+      internalID: 8961934124303612402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "Seppo_sepp\xE4_0": 8700458477566053765
+      "Seppo_sepp\xE4_1": 8201347168474057094
+      "Seppo_sepp\xE4_10": -519924719633741521
+      "Seppo_sepp\xE4_11": 1210147497189753107
+      "Seppo_sepp\xE4_12": 2768117048450137123
+      "Seppo_sepp\xE4_13": 8360228588945963211
+      "Seppo_sepp\xE4_14": -8091072106656262043
+      "Seppo_sepp\xE4_15": 8961934124303612402
+      "Seppo_sepp\xE4_2": -186128137577756537
+      "Seppo_sepp\xE4_3": 5386592261252131288
+      "Seppo_sepp\xE4_4": 2298530673144359791
+      "Seppo_sepp\xE4_5": 7212702064892827487
+      "Seppo_sepp\xE4_6": 1799829797916959498
+      "Seppo_sepp\xE4_7": 853856474598509761
+      "Seppo_sepp\xE4_8": 6971113555872704436
+      "Seppo_sepp\xE4_9": -7597525622105716019
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

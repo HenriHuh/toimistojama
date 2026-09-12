@@ -1,0 +1,1365 @@
+fileFormatVersion: 2
+guid: 2e48483406e584644b2bb6a7f145a4a3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8915692441751440832
+    second: Eteinen_Mojo_0
+  - first:
+      213: 1953374932375163055
+    second: Eteinen_Mojo_1
+  - first:
+      213: 6280830386930629994
+    second: Eteinen_Mojo_2
+  - first:
+      213: -8077913070738396426
+    second: Eteinen_Mojo_3
+  - first:
+      213: -3616503587039724114
+    second: Eteinen_Mojo_4
+  - first:
+      213: 3756222700694098597
+    second: Eteinen_Mojo_5
+  - first:
+      213: 7099065430052508121
+    second: Eteinen_Mojo_6
+  - first:
+      213: 3550059894310567009
+    second: Eteinen_Mojo_7
+  - first:
+      213: 7799368523055368441
+    second: Eteinen_Mojo_8
+  - first:
+      213: -8173822543709317724
+    second: Eteinen_Mojo_9
+  - first:
+      213: 6709563712288702266
+    second: Eteinen_Mojo_10
+  - first:
+      213: -5173425397097960809
+    second: Eteinen_Mojo_11
+  - first:
+      213: -6083093543217258485
+    second: Eteinen_Mojo_12
+  - first:
+      213: 41891376309902230
+    second: Eteinen_Mojo_13
+  - first:
+      213: -3681994772628982614
+    second: Eteinen_Mojo_14
+  - first:
+      213: 6750219111663403449
+    second: Eteinen_Mojo_15
+  - first:
+      213: -2152849056965058688
+    second: Eteinen_Mojo_16
+  - first:
+      213: -213599032532231328
+    second: Eteinen_Mojo_17
+  - first:
+      213: -3529283469046466221
+    second: Eteinen_Mojo_18
+  - first:
+      213: 6585534102787209559
+    second: Eteinen_Mojo_19
+  - first:
+      213: -3211583073469381903
+    second: Eteinen_Mojo_20
+  - first:
+      213: 3791623241194587752
+    second: Eteinen_Mojo_21
+  - first:
+      213: -4466975343578025004
+    second: Eteinen_Mojo_22
+  - first:
+      213: -4061497862127237364
+    second: Eteinen_Mojo_23
+  - first:
+      213: -8229777239237445689
+    second: Eteinen_Mojo_24
+  - first:
+      213: -8243614282992509946
+    second: Eteinen_Mojo_25
+  - first:
+      213: -6140211308453051321
+    second: Eteinen_Mojo_26
+  - first:
+      213: 5230195317809009122
+    second: Eteinen_Mojo_27
+  - first:
+      213: -6798883540962620564
+    second: Eteinen_Mojo_28
+  - first:
+      213: 8077021508333131362
+    second: Eteinen_Mojo_29
+  - first:
+      213: -1831345532946633255
+    second: Eteinen_Mojo_30
+  - first:
+      213: -6964426712997083201
+    second: Eteinen_Mojo_31
+  - first:
+      213: 748837122609571438
+    second: Eteinen_Mojo_32
+  - first:
+      213: -190895062661844642
+    second: Eteinen_Mojo_33
+  - first:
+      213: -3248264100944000407
+    second: Eteinen_Mojo_34
+  - first:
+      213: -583591620419724252
+    second: Eteinen_Mojo_35
+  - first:
+      213: 4761263077816846913
+    second: Eteinen_Mojo_36
+  - first:
+      213: -9142257672438513450
+    second: Eteinen_Mojo_37
+  - first:
+      213: -4870938950764393642
+    second: Eteinen_Mojo_38
+  - first:
+      213: 8809596782674388685
+    second: Eteinen_Mojo_39
+  - first:
+      213: 8622625036169476898
+    second: Eteinen_Mojo_40
+  - first:
+      213: -9185589648709651581
+    second: Eteinen_Mojo_41
+  - first:
+      213: -8881384007932965579
+    second: Eteinen_Mojo_42
+  - first:
+      213: -3640529218059675221
+    second: Eteinen_Mojo_43
+  - first:
+      213: 511466805764293169
+    second: Eteinen_Mojo_44
+  - first:
+      213: 1684147881576354325
+    second: Eteinen_Mojo_45
+  - first:
+      213: -485180615011472250
+    second: Eteinen_Mojo_46
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Eteinen_Mojo_0
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 694
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04235ca26f8154480800000000000000
+      internalID: -8915692441751440832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eteinen_Mojo_1
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 693
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa0df5dc628cb1b10800000000000000
+      internalID: 1953374932375163055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eteinen_Mojo_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 628
+        width: 62
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6dba7ba5fdf92750800000000000000
+      internalID: 6280830386930629994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eteinen_Mojo_3
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 11
+        width: 378
+        height: 660
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fa272c5cdc75ef80800000000000000
+      internalID: -8077913070738396426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eteinen_Mojo_4
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 650
+        width: 45
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ead329d06299fcdc0800000000000000
+      internalID: -3616503587039724114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eteinen_Mojo_5
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 657
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a2512c15a8c02430800000000000000
+      internalID: 3756222700694098597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eteinen_Mojo_6
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 643
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d1198b6562f48260800000000000000
+      internalID: 7099065430052508121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eteinen_Mojo_7
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 638
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16cfdb33aa8544130800000000000000
+      internalID: 3550059894310567009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eteinen_Mojo_8
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 636
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f80411595cec3c60800000000000000
+      internalID: 7799368523055368441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eteinen_Mojo_9
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 643
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a5502904bfb09e80800000000000000
+      internalID: -8173822543709317724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eteinen_Mojo_10
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 637
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3fb1d4c5a82d1d50800000000000000
+      internalID: 6709563712288702266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eteinen_Mojo_11
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 641
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79aedf5e20d4438b0800000000000000
+      internalID: -5173425397097960809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eteinen_Mojo_12
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 624
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b00201de6a2849ba0800000000000000
+      internalID: -6083093543217258485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eteinen_Mojo_13
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 629
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69b9a1c1cf3d49000800000000000000
+      internalID: 41891376309902230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eteinen_Mojo_14
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 634
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa4ba98234de6ecc0800000000000000
+      internalID: -3681994772628982614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eteinen_Mojo_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 583
+        width: 11
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b100c294889dad50800000000000000
+      internalID: 6750219111663403449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eteinen_Mojo_16
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 625
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08f1090603b8f12e0800000000000000
+      internalID: -2152849056965058688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eteinen_Mojo_17
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 140
+        width: 59
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06b9c85cfc4290df0800000000000000
+      internalID: -213599032532231328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eteinen_Mojo_18
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 247
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 359b3d34267750fc0800000000000000
+      internalID: -3529283469046466221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eteinen_Mojo_19
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 157
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7593ad4ff54846b50800000000000000
+      internalID: 6585534102787209559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eteinen_Mojo_20
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 166
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f2433bd53a2e63d0800000000000000
+      internalID: -3211583073469381903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eteinen_Mojo_21
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 157
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 866c48dbf3d8e9430800000000000000
+      internalID: 3791623241194587752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eteinen_Mojo_22
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 129
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d37a91979d1202c0800000000000000
+      internalID: -4466975343578025004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eteinen_Mojo_23
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 123
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c07c5ef8639a2a7c0800000000000000
+      internalID: -4061497862127237364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eteinen_Mojo_24
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 114
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c738a24435f9cd80800000000000000
+      internalID: -8229777239237445689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eteinen_Mojo_25
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 103
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60c15e47c7cc89d80800000000000000
+      internalID: -8243614282992509946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eteinen_Mojo_26
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 93
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 744c1d1e85699caa0800000000000000
+      internalID: -6140211308453051321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eteinen_Mojo_27
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 102
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e1dae74ee2659840800000000000000
+      internalID: 5230195317809009122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eteinen_Mojo_28
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 87
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6b4ca7017385a1a0800000000000000
+      internalID: -6798883540962620564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eteinen_Mojo_29
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 86
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 266d2679448571070800000000000000
+      internalID: 8077021508333131362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eteinen_Mojo_30
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 92
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dda7bfc0f0c596e0800000000000000
+      internalID: -1831345532946633255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eteinen_Mojo_31
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 68
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb7419bbdc2695f90800000000000000
+      internalID: -6964426712997083201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eteinen_Mojo_32
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 75
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e66e4cf3567646a00800000000000000
+      internalID: 748837122609571438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eteinen_Mojo_33
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 60
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e513aa0b3fdc95df0800000000000000
+      internalID: -190895062661844642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eteinen_Mojo_34
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 49
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96a449e9209dbe2d0800000000000000
+      internalID: -3248264100944000407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eteinen_Mojo_35
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 29
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42cdcf2638aa6e7f0800000000000000
+      internalID: -583591620419724252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eteinen_Mojo_36
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 28
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14ac4730b87631240800000000000000
+      internalID: 4761263077816846913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eteinen_Mojo_37
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 9
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d0863da51d202180800000000000000
+      internalID: -9142257672438513450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eteinen_Mojo_38
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 18
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65b0315e4d2f66cb0800000000000000
+      internalID: -4870938950764393642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eteinen_Mojo_39
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 17
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc62bbd3999f14a70800000000000000
+      internalID: 8809596782674388685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eteinen_Mojo_40
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 5
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22b754829c7b9a770800000000000000
+      internalID: 8622625036169476898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eteinen_Mojo_41
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 12
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 383f720c1ea368080800000000000000
+      internalID: -9185589648709651581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eteinen_Mojo_42
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 15
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53d0255ec4cfeb480800000000000000
+      internalID: -8881384007932965579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eteinen_Mojo_43
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba95f1be6fd3a7dc0800000000000000
+      internalID: -3640529218059675221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eteinen_Mojo_44
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 8
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1320cf79958191700800000000000000
+      internalID: 511466805764293169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eteinen_Mojo_45
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 3
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 512d596439b4f5710800000000000000
+      internalID: 1684147881576354325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eteinen_Mojo_46
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 0
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68ce55e1dca4449f0800000000000000
+      internalID: -485180615011472250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Eteinen_Mojo_0: -8915692441751440832
+      Eteinen_Mojo_1: 1953374932375163055
+      Eteinen_Mojo_10: 6709563712288702266
+      Eteinen_Mojo_11: -5173425397097960809
+      Eteinen_Mojo_12: -6083093543217258485
+      Eteinen_Mojo_13: 41891376309902230
+      Eteinen_Mojo_14: -3681994772628982614
+      Eteinen_Mojo_15: 6750219111663403449
+      Eteinen_Mojo_16: -2152849056965058688
+      Eteinen_Mojo_17: -213599032532231328
+      Eteinen_Mojo_18: -3529283469046466221
+      Eteinen_Mojo_19: 6585534102787209559
+      Eteinen_Mojo_2: 6280830386930629994
+      Eteinen_Mojo_20: -3211583073469381903
+      Eteinen_Mojo_21: 3791623241194587752
+      Eteinen_Mojo_22: -4466975343578025004
+      Eteinen_Mojo_23: -4061497862127237364
+      Eteinen_Mojo_24: -8229777239237445689
+      Eteinen_Mojo_25: -8243614282992509946
+      Eteinen_Mojo_26: -6140211308453051321
+      Eteinen_Mojo_27: 5230195317809009122
+      Eteinen_Mojo_28: -6798883540962620564
+      Eteinen_Mojo_29: 8077021508333131362
+      Eteinen_Mojo_3: -8077913070738396426
+      Eteinen_Mojo_30: -1831345532946633255
+      Eteinen_Mojo_31: -6964426712997083201
+      Eteinen_Mojo_32: 748837122609571438
+      Eteinen_Mojo_33: -190895062661844642
+      Eteinen_Mojo_34: -3248264100944000407
+      Eteinen_Mojo_35: -583591620419724252
+      Eteinen_Mojo_36: 4761263077816846913
+      Eteinen_Mojo_37: -9142257672438513450
+      Eteinen_Mojo_38: -4870938950764393642
+      Eteinen_Mojo_39: 8809596782674388685
+      Eteinen_Mojo_4: -3616503587039724114
+      Eteinen_Mojo_40: 8622625036169476898
+      Eteinen_Mojo_41: -9185589648709651581
+      Eteinen_Mojo_42: -8881384007932965579
+      Eteinen_Mojo_43: -3640529218059675221
+      Eteinen_Mojo_44: 511466805764293169
+      Eteinen_Mojo_45: 1684147881576354325
+      Eteinen_Mojo_46: -485180615011472250
+      Eteinen_Mojo_5: 3756222700694098597
+      Eteinen_Mojo_6: 7099065430052508121
+      Eteinen_Mojo_7: 3550059894310567009
+      Eteinen_Mojo_8: 7799368523055368441
+      Eteinen_Mojo_9: -8173822543709317724
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

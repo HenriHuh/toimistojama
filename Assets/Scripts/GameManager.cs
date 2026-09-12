@@ -5,8 +5,9 @@ using System;
 
 public class GameManager : MonoBehaviour
 {
-    [field:SerializeField] public SwingingMao SwingingMao { get; private set; }
+    [field: SerializeField] public SwingingMao SwingingMao { get; private set; }
     [field: SerializeField] public List<SubScene> Scenes { get; private set; }
+    [field: SerializeField] public List<CollectibleItem> CollectibleItems { get; private set; }
 
     public static GameManager Instance { get; private set; }
     public ClickableBase HoveredClickable { get; private set; }
@@ -42,6 +43,19 @@ public class GameManager : MonoBehaviour
     public void AddCollectible(CollectibleType type)
     {
         collectibles.Add(type);
+        CollectibleItem item = GetCollectible(type);
+        UIController.Instance.AddItem(item);
+    }
+
+    public CollectibleItem GetCollectible(CollectibleType type)
+    {
+        for (int i = 0; i < CollectibleItems.Count; i++)
+        {
+            if (type == CollectibleItems[i].type) return CollectibleItems[i]; 
+        }
+
+        Debug.LogError("Can't find collectible " + type);
+        return default;
     }
 
     public void ChangeScene(SceneType type)
