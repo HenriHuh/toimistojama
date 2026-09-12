@@ -75,7 +75,7 @@ public class UIController : MonoBehaviour
     {
         yield return new WaitForSeconds(3);
 
-        for (float t = 0; t < 1; t+= Time.deltaTime)
+        for (float t = 0; t < 1; t+= Time.deltaTime * 2)
         {
             dialogue.GetComponent<CanvasGroup>().alpha = 1 - t;
             yield return null;

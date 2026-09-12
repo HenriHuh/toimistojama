@@ -11,6 +11,7 @@ namespace Enums
         HardDrive_1,
         HardDrive_2,
         HardDrive_3,
+        Drink,
     }
 
     public enum SceneType
