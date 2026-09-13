@@ -4,6 +4,7 @@ using UnityEngine.UI;
 using TMPro;
 using Enums;
 using System.Collections;
+using System;
 
 public class UIController : MonoBehaviour
 {
@@ -12,6 +13,7 @@ public class UIController : MonoBehaviour
     [SerializeField] private Color defaultButtonColor;
     [SerializeField] private Color highlightButtonColor;
     [SerializeField] private Transform dialogue;
+    [SerializeField] private Transform winScreen;
 
 
     public static UIController Instance { get; private set; }
@@ -103,5 +105,10 @@ public class UIController : MonoBehaviour
     public void UnSelect()
     {
         SelectItem(CollectibleType.None);
+    }
+
+    public void OpenWinScreen()
+    {
+        winScreen.gameObject.SetActive(true);
     }
 }

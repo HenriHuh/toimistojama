@@ -17,6 +17,11 @@ public class ComputerPartClickable : ClickableBase
             UIController.Instance.RemoveItem(type);
             completed++;
             if (enableOnSuccess != null) enableOnSuccess.gameObject.SetActive(true);
+
+            if (GameManager.Instance.Computer.CheckCompletion())
+            {
+                UIController.Instance.OpenWinScreen();
+            }
         }
         else if (completed < requiredCompletion && !string.IsNullOrEmpty(guideText))
         {

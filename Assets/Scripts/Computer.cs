@@ -30,20 +30,20 @@ public class Computer : MonoBehaviour
             case SlotType.None:
                 return false;
             case SlotType.PowerUnit:
-                powerUnit.SetActive(itemType == CollectibleType.PowerSource);
+                powerUnit.SetActive(powerUnit.activeSelf || itemType == CollectibleType.PowerSource);
                 return itemType == CollectibleType.PowerSource;
             case SlotType.Cooler:
-                cooler.SetActive(itemType == CollectibleType.Cooler);
+                cooler.SetActive(cooler.activeSelf || itemType == CollectibleType.Cooler);
                 return itemType == CollectibleType.Cooler;
             case SlotType.GPU:
-                gpu.SetActive(itemType == CollectibleType.GPU);
+                gpu.SetActive(gpu.activeSelf || itemType == CollectibleType.GPU);
                 return itemType == CollectibleType.GPU;
             case SlotType.CPU:
-                cpu.SetActive(thermal.activeSelf && itemType == CollectibleType.CPU);
+                cpu.SetActive(cpu.activeSelf || (thermal.activeSelf && itemType == CollectibleType.CPU));
                 thermal.SetActive(thermal.activeSelf && itemType != CollectibleType.CPU);
-                return thermal.activeSelf && itemType == CollectibleType.CPU;
+                return cpu.activeSelf || (thermal.activeSelf && itemType == CollectibleType.CPU);
             case SlotType.Thermal:
-                thermal.SetActive(itemType == CollectibleType.ThermalPaste);
+                thermal.SetActive(thermal.activeSelf || itemType == CollectibleType.ThermalPaste);
                 return itemType == CollectibleType.ThermalPaste;
             case SlotType.HardDrive:
                 switch (itemType)
@@ -63,5 +63,17 @@ public class Computer : MonoBehaviour
             default:
                 return false;
         }
+    }
+
+    public bool CheckCompletion()
+    {
+        return 
+            powerUnit.activeSelf &&
+            cooler.activeSelf &&
+            gpu.activeSelf &&
+            cpu.activeSelf &&
+            hardDrive_1.activeSelf &&
+            hardDrive_2.activeSelf &&
+            hardDrive_3.activeSelf;
     }
 }

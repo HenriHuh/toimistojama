@@ -10,8 +10,10 @@ public class SeppoSmith : ClickableBase
     {
         if (UIController.Instance.Selected == Enums.CollectibleType.Drink)
         {
-            UIController.Instance.ShowDialogue("Thank you! I feel inspired and connected with the universe! I'll craft a CPU!");
+            UIController.Instance.ShowDialogue("Refreshing! I feel connected with the universe! I'll craft a CPU for you!");
             UIController.Instance.RemoveItem(Enums.CollectibleType.Drink);
+            SoundManager.instance.PlaySound(SoundManager.instance.seppa);
+            cpu.gameObject.SetActive(true);
             completed = true;
         }
         else if (!completed)
